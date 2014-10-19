@@ -1,0 +1,1 @@
+<div class="error_404"><div class="error_404_h1">{lang=error}</div><br />{error}</div>

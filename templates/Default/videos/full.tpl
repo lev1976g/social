@@ -1,0 +1,1 @@
+<div id="video_object" style="line-height:0px;">{video}</div>

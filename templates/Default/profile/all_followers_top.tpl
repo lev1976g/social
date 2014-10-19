@@ -1,0 +1,1 @@
+[top]<div class="cover_edit_title">Всего {followers-num}</div><div class="clear"></div>[/top]
